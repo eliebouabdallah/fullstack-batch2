@@ -1,0 +1,39 @@
+/* p{
+        color:aqua;
+
+}
+
+h2{
+    font-size: 20px;
+} */
+#paragrapheOne{
+    color:blue;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    border: 5px solid red;
+    border-bottom: 5px dashed green;
+    border-top: 5px dotted yellow;
+    border-radius: 50px;
+    margin: 35px;
+    margin-left: 50px;
+    padding:50px;
+}
+.syllabusModules{
+    background-color: bisque;
+    color: rgb(52, 131, 151);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-decoration: underline;
+    
+}
+
+p.mongoDB{
+    width:fit-content;
+}
+
+body{
+    background-image: url("../First4Sessions/bootcamp.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
